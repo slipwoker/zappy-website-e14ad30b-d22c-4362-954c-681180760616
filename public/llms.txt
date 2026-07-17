@@ -1,0 +1,87 @@
+# GameIL Help — Generative Engine Optimization Map
+
+> A gaming guide website designed to help players navigate popular games with step-by-step tutorials and tips. The site features a dark background aesthetic fitting the gaming world, with a focus on popular titles like Minecraft. Content is organized by game, offering detailed guides on achievements, crafting, progression milestones, and more. The vibe is informative, gamer-friendly, and community-oriented.
+
+---
+
+## Pages
+
+### דף הבית
+https://gameil-help-e14ad30b.zappy5.app
+ברוכים הבאים למרכז ההדרכה לגיימרים! כאן תמצאו מדריכים מפורטים, טיפים סודיים ועזרה צמודה במשחקים פופולריים כמו מיינקראפט. הצטרף לקהילה שמשדרגת את חוויית המשחק שלך.
+
+### משחקים פופולריים
+https://gameil-help-e14ad30b.zappy5.app/games
+צלול לרשימת המשחקים הכי חמים שאנחנו מכסים! ממיינקראפט ועד כותרים מובילים, כל משחק מקבל מדריכים מעשיים שיהפכו אותך לשחקן הטוב ביותר. התחל לשלוט עכשיו.
+
+### מדריכי מיינקראפט
+https://gameil-help-e14ad30b.zappy5.app/minecraft-guides
+מדריכי מיינקראפט שיעשו לך סדר: איך לעבור שלבים, לבנות מבנים מורכבים, לאסוף הישגים נדירים ולשלוט במלאכת היצירה. הפוך לשחקן אגדי עם הצעדים שלנו.
+
+### מערכת מדריכים
+https://gameil-help-e14ad30b.zappy5.app/guide-system
+הכירו את מערכת המדריכים הייחודית שלנו: שלבים ברורים, טיפים ממוקדים ומסלול התקדמות שילווה אותך מאפס למאה בכל משחק. תתחיל להתקדם בקצב שלך עוד היום.
+
+### צור קשר
+https://gameil-help-e14ad30b.zappy5.app/contact
+צריך עזרה דחופה או רוצה לשתף רעיון? צור קשר עם צוות GameIL Help ונשמח לתת לך מענה מהיר, ידידותי ומקצועי. הקהילה שלנו תמיד פתוחה לגיימרים כמוך.
+
+### תודה רבה - פנייתך התקבלה | GameIL Help
+https://gameil-help-e14ad30b.zappy5.app/thank-you
+תודה רבה על פנייתך לצוות GameIL Help. הודעתך התקבלה במערכת ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://gameil-help-e14ad30b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://gameil-help-e14ad30b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://gameil-help-e14ad30b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://gameil-help-e14ad30b.zappy5.app/contact
+- Endpoint: https://gameil-help-e14ad30b.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About GameIL Help
+A gaming guide website designed to help players navigate popular games with step-by-step tutorials and tips. The site features a dark background aesthetic fitting the gaming world, with a focus on popular titles like Minecraft. Content is organized by game, offering detailed guides on achievements, crafting, progression milestones, and more. The vibe is informative, gamer-friendly, and community-oriented.
+
+## Target Audience
+- גיימרים שצריכים עזרה במשחקים פופולריים
+- גיימרים שצריכים עזרה
+- גיימרים תחרותיים
+- גיימרים מתחילים
+
+## Industry
+Gaming
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://gameil-help-e14ad30b.zappy5.app/sitemap.xml
+- Robots: https://gameil-help-e14ad30b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://gameil-help-e14ad30b.zappy5.app/llms-full.txt
