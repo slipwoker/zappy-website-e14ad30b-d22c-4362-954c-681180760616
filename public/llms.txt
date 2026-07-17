@@ -7,41 +7,41 @@
 ## Pages
 
 ### דף הבית
-https://gameil-help-e14ad30b.zappy5.app
+https://example.com
 ברוכים הבאים למרכז ההדרכה לגיימרים! כאן תמצאו מדריכים מפורטים, טיפים סודיים ועזרה צמודה במשחקים פופולריים כמו מיינקראפט. הצטרף לקהילה שמשדרגת את חוויית המשחק שלך.
 
 ### משחקים פופולריים
-https://gameil-help-e14ad30b.zappy5.app/games
+https://example.com/games
 צלול לרשימת המשחקים הכי חמים שאנחנו מכסים! ממיינקראפט ועד כותרים מובילים, כל משחק מקבל מדריכים מעשיים שיהפכו אותך לשחקן הטוב ביותר. התחל לשלוט עכשיו.
 
 ### מדריכי מיינקראפט
-https://gameil-help-e14ad30b.zappy5.app/minecraft-guides
+https://example.com/minecraft-guides
 מדריכי מיינקראפט שיעשו לך סדר: איך לעבור שלבים, לבנות מבנים מורכבים, לאסוף הישגים נדירים ולשלוט במלאכת היצירה. הפוך לשחקן אגדי עם הצעדים שלנו.
 
 ### מערכת מדריכים
-https://gameil-help-e14ad30b.zappy5.app/guide-system
+https://example.com/guide-system
 הכירו את מערכת המדריכים הייחודית שלנו: שלבים ברורים, טיפים ממוקדים ומסלול התקדמות שילווה אותך מאפס למאה בכל משחק. תתחיל להתקדם בקצב שלך עוד היום.
 
 ### צור קשר
-https://gameil-help-e14ad30b.zappy5.app/contact
+https://example.com/contact
 צריך עזרה דחופה או רוצה לשתף רעיון? צור קשר עם צוות GameIL Help ונשמח לתת לך מענה מהיר, ידידותי ומקצועי. הקהילה שלנו תמיד פתוחה לגיימרים כמוך.
 
 ### תודה רבה - פנייתך התקבלה | GameIL Help
-https://gameil-help-e14ad30b.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך לצוות GameIL Help. הודעתך התקבלה במערכת ונחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://gameil-help-e14ad30b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://gameil-help-e14ad30b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://gameil-help-e14ad30b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://gameil-help-e14ad30b.zappy5.app/contact
-- Endpoint: https://gameil-help-e14ad30b.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Gaming
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://gameil-help-e14ad30b.zappy5.app/sitemap.xml
-- Robots: https://gameil-help-e14ad30b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://gameil-help-e14ad30b.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://gameil-help-e14ad30b.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
